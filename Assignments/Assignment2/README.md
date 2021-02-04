@@ -1,4 +1,4 @@
-## This is the README file of CME241 by Carolyn Kao
+## This is the README file of CME241 HW2 by Carolyn Kao
 
 ### Feb 3rd, 2021 EDITED:
 Q1 completed <br />
